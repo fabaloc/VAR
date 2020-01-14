@@ -1,4 +1,4 @@
-# VAR Analyis
+# VAR Analysis
 
 The Matlab code 'VARanalysis.m' run a Vector Autoregressive Analysis of US quarterly data from 1948Q1 to 2015Q4 : real gdp in QoQ growth rates (gdp),
 QoQ inflation (inf) and the three months Treasury Bill rate (str).
